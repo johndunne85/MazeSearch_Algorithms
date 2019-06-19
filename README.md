@@ -1,0 +1,1 @@
+<img src="images/mazePhoto.png" width=100 >
