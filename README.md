@@ -1,1 +1,1 @@
-<img src="images/mazePhoto.png" width=100 >
+<img src="images/mazePhoto.png" width=170 >
